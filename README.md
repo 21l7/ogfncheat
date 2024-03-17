@@ -3,8 +3,7 @@
 	<img align="center" src="https://i.imgur.com/LbbSQUq.png" alt="Logo" width="235" height="140">
 </p>
 <p align="center">
-	<img align="center" src="[v](https://cdn.discordapp.com/attachments/1208173088747945994/1218988206272417792/image.png?ex=6609aa3c&is=65f7353c&hm=bbb85d731dbc249d136eea73da90a8c2e55aa2461817e35a18573c65820378d1&)" alt="Logo" width="235" height="140">
-</p>
+[v](https://cdn.discordapp.com/attachments/1208173088747945994/1218988206272417792/image.png?ex=6609aa3c&is=65f7353c&hm=bbb85d731dbc249d136eea73da90a8c2e55aa2461817e35a18573c65820378d1&)
 <p align="center">A Fortnite Internal cheat base that automatically gets all Offset and VTables for S3 to S15.</p>
 <p align="center">If you enjoy this, join the Discord and star the project!</p>
 <p align="center">
