@@ -14,7 +14,7 @@
     <img alt="Stars" src="https://img.shields.io/github/stars/raax7/OG-Fortnite-Cheat?color=blue&style=for-the-badge">
 </p>
 
-[<img align="center" src="https://imgur.com/a/6MSfSiO.png" alt="Logo" width="235" height="140">](https://imgur.com/a/6MSfSiO)
+[<img align="center" src="https://imgur.com/a/6MSfSiO.png" alt="Logo" width="235" height="140">]
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
