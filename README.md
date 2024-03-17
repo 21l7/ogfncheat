@@ -13,7 +13,7 @@
     <img alt="Release" src="https://img.shields.io/github/v/release/raax7/OG-Fortnite-Cheat?color=blue&style=for-the-badge">
     <img alt="Stars" src="https://img.shields.io/github/stars/raax7/OG-Fortnite-Cheat?color=blue&style=for-the-badge">
 </p>
-![era](https://github.com/21l7/ogfncheat/assets/90413712/63f5bf4d-6661-474c-9a15-c29068e5fb27)
+
 
 
 <!-- TABLE OF CONTENTS -->
@@ -26,7 +26,7 @@
     <li><a href="#license">License</a></li>
 </ol>
 
-
+![era](https://github.com/21l7/ogfncheat/assets/90413712/63f5bf4d-6661-474c-9a15-c29068e5fb27)
 
 <!-- ABOUT somethingidk-FN -->
 ## About somethingidk-FN
